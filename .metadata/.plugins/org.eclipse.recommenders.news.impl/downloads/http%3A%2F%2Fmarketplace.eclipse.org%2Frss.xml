@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, and VHDL</title>
+    <link>http://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-and-vhdl</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/AMIQ_logo_web_110x63.jpg&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-04-19 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-01-16 09:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22AMIQ%20EDA%22&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/emisingname6ia/listings&quot; title=&quot;AMIQ Support&quot;&gt;AMIQ Support&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the &lt;strong&gt;&lt;em&gt;e&lt;/em&gt; language, SystemVerilog, Verilog,  VHDL, and mixed language projects&lt;/strong&gt; that also provides &lt;strong&gt;Universal Verification Methodology (UVM) support&lt;/strong&gt;.  It is similar to well-known programming tools like Visual Studio®, NetBeans®, and IntelliJ®.  &lt;/p&gt;
+&lt;p&gt;DVT comprises a proprietary IEEE standard-compliant parser, a smart code editor, an intuitive GUI, a comprehensive set of features that help with code inspection, navigation, documentation, and debugging,  and an innovative linting framework. &lt;/p&gt;
+&lt;p&gt;DVT allows design and verification engineers to overcome the limitations of plain text editors and use a modern and powerful tool that enables them to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Increase the speed and quality of new code development&lt;/li&gt;
+&lt;li&gt;Easily understand complex or poorly documented source code&lt;/li&gt;
+&lt;li&gt;Simplify the maintenance of legacy code and reusable libraries&lt;/li&gt;
+&lt;li&gt;Accelerate language and methodology learning&lt;/li&gt;
+&lt;li&gt;Automatically generate well-organized source code documentation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.dvteclipse.com/mkt/Fig1-DVT-640x400-48border-web.jpg&quot; alt=&quot;DVT Overview Screenshot &quot; height=&quot;388&quot; width=&quot;620&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;FEATURES &lt;/span&gt;&lt;br /&gt;
+Some of the features that DVT offers include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Autocomplete&lt;/li&gt;
+&lt;li&gt;Compilation errors signaled on the fly &lt;/li&gt;
+&lt;li&gt;In-line reminders for task tracking (TO DOs)&lt;/li&gt;
+&lt;li&gt;Customizable code and project templates&lt;/li&gt;
+&lt;li&gt;Dedicated wizards to generate getters and setters, override&lt;br /&gt;
+functions, or help with UVM factory registration&lt;/li&gt;
+&lt;li&gt;Hyperlinks that help navigate faster in the source code
+&lt;/li&gt;&lt;li&gt;Semantic search&lt;/li&gt;
+&lt;li&gt;Refactoring&lt;/li&gt;
+&lt;li&gt;Macro expansion&lt;/li&gt;
+&lt;li&gt;Class and structural browsing&lt;/li&gt;
+&lt;li&gt;Trace port connections &lt;/li&gt;
+&lt;li&gt;UML diagrams for inspecting and documenting the architecture&lt;/li&gt;
+&lt;li&gt;Module flow diagrams for inspecting and documenting a module structure&lt;/li&gt;
+&lt;li&gt;Automated documentation extraction&lt;/li&gt;
+&lt;li&gt;UVM support and compliance checking&lt;/li&gt;
+&lt;li&gt;Cross-language capabilities for mixed-language projects&lt;/li&gt;
+&lt;li&gt;Vi and emacs emulation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;INTEGRATION WITH OTHER TOOLS&lt;/span&gt;&lt;br /&gt;
+Since it is built on the Eclipse Platform, the DVT IDE can be easily integrated within a large plug-in ecosystem. It also integrates seamlessly with all major hardware simulators such as NCSim , Specman , VCS , and Questa, to enable simplified simulation analysis and debugging. In addition, it works with revision control systems like CVS, Git, Subversion, ClearCase and bug tracking systems such as Bugzilla and ClearQuest.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;RESOURCES &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt; &lt;a href=&quot;http://www.dvteclipse.com/Design_and_Verification_Tools_Eclipse_IDE.html&quot; target=&quot;_blank&quot;&gt;DVT web page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dvteclipse.com/datasheet/AMIQ_DVT_Datasheet.pdf&quot; target=&quot;_blank&quot;&gt;DVT datasheet&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/dvteclipse&quot; target=&quot;_blank&quot;&gt;Demo movies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dvteclipse.com/UVM_Support_in_DVT_Eclipse.html&quot;&gt;UVM Support in DVT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dvteclipse.com/DVT_Debugger_Add-On_Module.html&quot;&gt;DVT Debugger Module&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
+ <dc:creator>emisingname6ia</dc:creator>
+ <guid isPermaLink="false">192 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-and-vhdl#comments</comments>
+  </item>
+  <item>
+    <title>Java Antidecompiler</title>
+    <link>http://marketplace.eclipse.org/content/java-antidecompiler</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/bis_logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2012-11-20 09:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-01-16 08:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22BIS%20Guard%20%26%20Co.%22&quot;&gt;BIS Guard &amp;amp; Co.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ybendersky/listings&quot; title=&quot;Yury Bendersky&quot;&gt;Yury Bendersky&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;The strongest Java code protection tool&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Refund &lt;em&gt;200%&lt;/em&gt; if you will crack it&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Secure Server Authentication&lt;/li&gt;
+&lt;li&gt;Runs as Eclipse and NetBeans plug-ins,&lt;br /&gt;&lt;span style=&quot;margin-left: 64px&quot;&gt;stand-alone, and console Java apps&lt;/span&gt;
+	&lt;/li&gt;
+&lt;li&gt;Protects library jars&lt;/li&gt;
+&lt;li&gt;Black box class loading&lt;/li&gt;
+&lt;li&gt;Binary level protection&lt;/li&gt;
+&lt;li&gt;Keyless encryption&lt;/li&gt;
+&lt;li&gt;Unique debug option&lt;/li&gt;
+&lt;li&gt;JavaFX support&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Lazy download:&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;http://www.bisguard.com/downloads/java_antidecompiler_8.5.zip&quot;&gt;&lt;br /&gt;
+    				http://www.bisguard.com/downloads/&lt;br /&gt;&lt;span style=&quot;margin-left: 175px&quot;&gt;java_antidecompiler_8.5.zip&lt;/span&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 20 Nov 2012 14:09:33 +0000</pubDate>
+ <dc:creator>ybendersky</dc:creator>
+ <guid isPermaLink="false">536829 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/java-antidecompiler#comments</comments>
+  </item>
+  <item>
+    <title>eMoflon</title>
+    <link>http://marketplace.eclipse.org/content/emoflon</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/eMoflonLogoNoText_semitransparent.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2016-12-30 08:43&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-01-16 06:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rkluge/listings&quot; title=&quot;Roland Kluge&quot;&gt;Roland Kluge&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;eMoflon is a tool for building tools. It allows you to model software systems using a visual or a textual syntax, afterwards generating EMF-compliant Java code from your model.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 30 Dec 2016 13:43:16 +0000</pubDate>
+ <dc:creator>rkluge</dc:creator>
+ <guid isPermaLink="false">3234744 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/emoflon#comments</comments>
+  </item>
+  <item>
+    <title>Swingcorder</title>
+    <link>http://marketplace.eclipse.org/content/swingcorder</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/swingcorder_world.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-07-04 17:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-01-15 18:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Kandor%2C%20LLC%22&quot;&gt;Kandor, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/bspell/listings&quot; title=&quot;Kandor LLC&quot;&gt;Kandor LLC&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.kandor.com/swingcorder/intro/&quot;&gt;Swingcorder&lt;/a&gt; is a utility that provides the ability to record and recreate user input for Swing applications. Recorded input is translated into Java code that, when executed with the Swingcorder library, can be used to simulate user keyboard and mouse input. These Swingcorder &quot;scripts&quot; can also be customized or created manually and can executed as part of unit testing in a continuous integration (CI) system.&lt;/p&gt;
+&lt;p&gt;Swingcorder can be used through its Eclipse plugin, which provides easy control over the recording and playback of scripts.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 04 Jul 2016 21:20:53 +0000</pubDate>
+ <dc:creator>bspell</dc:creator>
+ <guid isPermaLink="false">2959388 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/swingcorder#comments</comments>
+  </item>
+  <item>
+    <title>EclEmma Java Code Coverage</title>
+    <link>http://marketplace.eclipse.org/content/eclemma-java-code-coverage</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/eclemma110_80.gif&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2006-09-21 11:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-01-15 16:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Mountainminds%20GmbH%20%26%20Co.%20KG%22&quot;&gt;Mountainminds GmbH &amp;amp; Co. KG&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mhoffmann/listings&quot; title=&quot;Marc R. Hoffmann&quot;&gt;Marc R. Hoffmann&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;
+EclEmma is a free Java code coverage tool for Eclipse, available under the Eclipse Public License. It brings code coverage analysis directly into the Eclipse workbench:
+&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Fast develop/test cycle: Launches from within the workbench like JUnit test runs can directly be analyzed for code coverage.&lt;/li&gt;
+  &lt;li&gt;Rich coverage analysis: Coverage results are immediately summarized and highlighted in the Java source code editors.&lt;/li&gt;
+  &lt;li&gt;Non-invasive: EclEmma does not require modifying your projects or performing any other setup.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+Since version 2.0 EclEmma is based on the &lt;a href=&quot;http://www.jacoco.org/jacoco&quot;&gt;JaCoCo&lt;/a&gt; code coverage library. The Eclipse integration has its focus on supporting the individual developer in an highly interactive way. For automated builds please refer to &lt;a href=&quot;http://www.jacoco.org/jacoco/trunk/doc&quot;&gt;JaCoCo documentation&lt;/a&gt; for integrations with other tools.
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 21 Sep 2006 15:09:36 +0000</pubDate>
+ <dc:creator>mhoffmann</dc:creator>
+ <guid isPermaLink="false">264 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclemma-java-code-coverage#comments</comments>
+  </item>
+  <item>
+    <title>GNU ARM Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/gnu-arm-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/GAE-500.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2015-11-03 14:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-01-14 10:08&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/lionescu/listings&quot; title=&quot;Liviu Ionescu&quot;&gt;Liviu Ionescu&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The GNU ARM Eclipse is an open source project that includes a family of Eclipse plug-ins and tools for multi-platform embedded ARM development, based on GNU toolchains.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 03 Nov 2015 19:04:04 +0000</pubDate>
+ <dc:creator>lionescu</dc:creator>
+ <guid isPermaLink="false">2593184 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/gnu-arm-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>iSphere for RDi 9.5+</title>
+    <link>http://marketplace.eclipse.org/content/isphere-rdi-95</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/isphere_marketplace.jpg&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-01-10 16:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-01-14 09:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22iSphere%20Project%20Team%22&quot;&gt;iSphere Project Team&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/traddatz/listings&quot; title=&quot;Thomas Raddatz&quot;&gt;Thomas Raddatz&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;iSphere is an open source plug-in for WDSCi 7.0 and RDi 8.0+. It delivers high quality extensions for WDSC, RDP and RDi to further improve developer productivity.&lt;/p&gt;
+&lt;p&gt;IBM&#039;s current Eclipse based Integrated Development Environment (IDE) is a huge step beyond SEU, but it still lacks features available only on the green screen. That is where the iSphere Project comes into play, filling in those gaps.&lt;/p&gt;
+&lt;p&gt;Feature list:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Binding Directory Editor&lt;/li&gt;
+&lt;li&gt;Data Area Editor&lt;/li&gt;
+&lt;li&gt;User Space Editor&lt;/li&gt;
+&lt;li&gt;Data Queue Viewer&lt;/li&gt;
+&lt;li&gt;Message File Editor&lt;/li&gt;
+&lt;li&gt;Message File Compare Editor&lt;/li&gt;
+&lt;li&gt;Message File Search&lt;/li&gt;
+&lt;li&gt;Source File Search&lt;/li&gt;
+&lt;li&gt;Source Compare/Merge Editor&lt;/li&gt;
+&lt;li&gt;Spooled Files Subsystem&lt;/li&gt;
+&lt;li&gt;Lpex Task Tags&lt;/li&gt;
+&lt;li&gt;Host Object Decorator&lt;/li&gt;
+&lt;li&gt;RSE Filter Manager&lt;/li&gt;
+&lt;li&gt;Message Subsystem and Monitor&lt;/li&gt;
+&lt;li&gt;Job Log Explorer&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;iSphere is an Open Source project that is hosted on &lt;a href=&quot;https://sourceforge.net/projects/isphere/&quot;&gt;Source Forge&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 10 Jan 2017 21:11:59 +0000</pubDate>
+ <dc:creator>traddatz</dc:creator>
+ <guid isPermaLink="false">3248963 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/isphere-rdi-95#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Communications Framework - ECF</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-communications-framework-ecf</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2010-06-23 09:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-01-14 09:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%22&quot;&gt;Eclipse&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/wjongman/listings&quot; title=&quot;Wim Jongman&quot;&gt;Wim Jongman&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;ECF is a framework for building distributed servers, applications, and tools. It provides a modular implementation of the OSGi Remote Services standard and implements the OSGi RSA Specification. ECF also supports REST-based and SOAP-based remote services and asynchronous messaging for remote services.&lt;/p&gt;
+&lt;p&gt;New and Noteworthy: &lt;a href=&quot;http://www.eclipse.org/ecf/NewAndNoteworthy.html&quot;&gt;http://www.eclipse.org/ecf/NewAndNoteworthy.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See the ECF Wiki for examples, tutorials, other documentation, as well as plans and efforts currently underway for future releases.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eclipse.org/ecf&quot;&gt;http://www.eclipse.org/ecf&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://wiki.eclipse.org/EIG:Integrators_Guide&quot;&gt;http://wiki.eclipse.org/EIG:Integrators_Guide&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://wiki.eclipse.org/EUG:Users_Guide&quot;&gt;http://wiki.eclipse.org/EUG:Users_Guide&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 23 Jun 2010 13:02:20 +0000</pubDate>
+ <dc:creator>wjongman</dc:creator>
+ <guid isPermaLink="false">1405 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-communications-framework-ecf#comments</comments>
+  </item>
+  <item>
+    <title>ECF - Remote Services SDK</title>
+    <link>http://marketplace.eclipse.org/content/ecf-remote-services-sdk</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo110x80_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2014-03-10 06:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-01-14 09:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Communications%20Framework%20-%20ECF%22&quot;&gt;Eclipse Communications Framework - ECF&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/wjongman/listings&quot; title=&quot;Wim Jongman&quot;&gt;Wim Jongman&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This feature provides the ECF Remote Services Target Components.  This is the set of bundles (API, examples, and providers), that allow OSGi frameworks to expose and access services remotely.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 10 Mar 2014 10:03:37 +0000</pubDate>
+ <dc:creator>wjongman</dc:creator>
+ <guid isPermaLink="false">1541447 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ecf-remote-services-sdk#comments</comments>
+  </item>
+  <item>
+    <title>Stereotype Checker</title>
+    <link>http://marketplace.eclipse.org/content/stereotype-checker</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/nt-logo-marketplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-01-13 04:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-01-13 09:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22NovaTec%20Consulting%20GmbH%22&quot;&gt;NovaTec Consulting GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cnovatec/listings&quot; title=&quot;CA ITA Novatec&quot;&gt;CA ITA Novatec&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Stereotype Checker is an extension to checkstyle checking if your code matches the defined architecture.&lt;/p&gt;
+&lt;p&gt;More information can be found on the &lt;a href=&quot;https://github.com/NovaTecConsulting/stereotype-check&quot;&gt;GitHub pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you don&#039;t check your architecture it doesn&#039;t exist in reality.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The architecture is a contract between developers (including the architect if one exists) of a project on how to structure a software. In a classical architecture there are many layers (e.g. UI, business, persistence) and the architecture defines which layer is allowed to talk to another layer. If you don&#039;t check this automatically, often this contract is not followed due to the reason that the developer does not get a fast or even any feedback that some changes break the contract.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How does the stereotype check help following the contract?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In a layered architecture often there are some classes that implement a special behavior like transformer, controllers or business functions. They are called stereotypes. Stereotypes belong to a specific layer. Stereotypes are defined by a combination of:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Postfix of the classname&lt;/li&gt;
+&lt;li&gt;Package of the class&lt;/li&gt;
+&lt;li&gt;Interface implemented by the class&lt;/li&gt;
+&lt;li&gt;Class extended by the class&lt;/li&gt;
+&lt;li&gt;Annotations the class has&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The stereotype check tests if a class conforms to a configured stereotype and checks if the class has a dependency to an other stereotype class that is not allowed.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 13 Jan 2017 09:03:51 +0000</pubDate>
+ <dc:creator>cnovatec</dc:creator>
+ <guid isPermaLink="false">3253213 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/stereotype-checker#comments</comments>
+  </item>
+  </channel>
+</rss>

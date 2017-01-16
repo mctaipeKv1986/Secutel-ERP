@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;modulo_facturacion.conexcionBD&apos; to &apos;conexionBD&apos;&#x0D;&#x0A;- Original project: &apos;Secutel-ERP&apos;&#x0D;&#x0A;- Original element: &apos;modulo_facturacion.conexcionBD&apos;&#x0D;&#x0A;- Renamed element: &apos;modulo_facturacion.conexionBD&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;conexcionBD&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;modulo_facturacion{conexcionBD.java[conexcionBD" matchStrategy="1" name="conexionBD" qualified="false" references="true" similarDeclarations="false" stamp="1484579694830" textual="false" version="1.0"/>
+</session>
