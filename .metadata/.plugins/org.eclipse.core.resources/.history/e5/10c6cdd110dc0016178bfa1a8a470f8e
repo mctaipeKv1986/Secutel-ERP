@@ -9,7 +9,7 @@ public class conexionBD {
 	private Connection conn = null;
 	private String usu = "root";
 	private String pass = "";
-	private String bd = "secutel-erp";
+	private String bd = "modulo_facturacion";
 	private String url = "jdbc:mysql://localhost/"+bd;
 	
 	public void conectar () {
@@ -17,7 +17,7 @@ public class conexionBD {
 			Class.forName("com.mysql.jdbc.Driver").newInstance();
 			conn = DriverManager.getConnection(url,usu,pass);
 			if (conn != null) {
-				System.out.println("conexion a la base de datos, realizada con éxito");
+				System.out.println("conexion de base de datos"+url+".......ok");
 			}
 		} 
 		catch (SQLException ex) {
@@ -33,8 +33,6 @@ public class conexionBD {
 		}
 		
 	}
-	
-	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
